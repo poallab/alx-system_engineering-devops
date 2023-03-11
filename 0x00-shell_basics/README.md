@@ -11,3 +11,6 @@ Goes to the home directory
 
 3-listfiles:
 Displays current directory contents in long format
+
+4-listmorefiles:
+Display current files including hidden files
