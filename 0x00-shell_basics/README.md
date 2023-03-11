@@ -8,3 +8,6 @@ Lists the contents in a document
 
 2-bring_me_home:
 Goes to the home directory
+
+3-listfiles:
+Displays current directory contents in long format
