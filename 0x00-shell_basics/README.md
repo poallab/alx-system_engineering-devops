@@ -14,3 +14,6 @@ Displays current directory contents in long format
 
 4-listmorefiles:
 Display current files including hidden files
+
+5-listmorefilesdigitonly:
+Displays files with the UserIDs
